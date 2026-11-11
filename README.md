@@ -18,6 +18,6 @@ npm run preview
 
 ## Deploy
 
-The portfolio deploys to GitHub Pages at `https://danishshirsangi.github.io/danish-portfolio/` when changes are pushed to `main`. GitHub Actions builds the Vite site and publishes the `dist` folder.
+The portfolio deploys to GitHub Pages at `https://danishshirsangi.github.io/portfolio/` when changes are pushed to `main`. GitHub Actions builds the Vite site and publishes the `dist` folder.
 
 The hero uses a CSS prism and lens flare, pointer-responsive light, and a reduced-motion fallback. GSAP ScrollTrigger reveals copy and scales cards into view as they enter the viewport. Project cards expand to show grounded details and link to their GitHub repositories.
