@@ -1,0 +1,11 @@
+node_modules
+dist
+outputs/
+.DS_Store
+.vite
+work/
+.impeccable/
+.impeccable-home/
+PRODUCT.md
+*.pdf
+
